@@ -1,0 +1,59 @@
+body {
+  width: 1000px;
+  margin: auto;
+  padding-left: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-right: 100px;
+  background: rgba(240, 240, 240, 0.7);
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 30px;
+}
+
+img {
+  width: 500px;
+  border-radius: 15px;
+}
+
+#logo {
+  width: 1000px;
+}
+
+.titans {
+  width: 400px;
+}
+
+html {
+  background-image: url(images/Website\ background.png);
+  background-size: cover;
+}
+
+hr {
+  border: 2px solid;
+  border-style: dashed;
+  border-color: cornflowerblue;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  letter-spacing: 10px;
+}
+
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h3 {
+  font-family: monospace;
+}
+
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+a {
+  font-style: oblique;
+  color: cornflowerblue;
+}
